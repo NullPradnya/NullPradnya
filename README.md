@@ -15,9 +15,9 @@
 
 ## 💼 About Me
 
-I'm a data analyst in the making — passionate about exploring data, spotting patterns, and building dashboards that *actually make sense*.  
-Tools I vibe with: **Excel**, **Power BI**, and **Python** (still learning, still curious).  
-I recently interned at **L&T Technology Services**, where I worked on the **BMW project**, contributing to test case maintenance and automation.
+- I'm a data analyst in the making — passionate about exploring data, spotting patterns, and building dashboards that *actually make sense*.  
+- Tools I vibe with: **Excel**, **Power BI**, and **Python** (still learning, still curious).  
+- I recently interned at **L&T Technology Services**, where I worked on the **BMW project**, contributing to test case maintenance and automation.
 
 ---
 
