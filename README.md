@@ -1,9 +1,8 @@
 # 👋 Hi there, I’m Pradnya!
-###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
+#
+<img align="right" height="300" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJpcGpmb3lyOXJzaWxxbHR2NGoybGgyOHBtN2ZuZ2Z4bG10MTdkNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DMKug6t8o0Y6iWX7yK/giphy.gif" alt="Funny GIF" />
+#
 
 -Engineering grad from India who talks to data for a living.  
 -Power BI, Excel, and Python are my sidekicks. 💻📊✨
@@ -44,6 +43,10 @@ I recently interned at **L&T Technology Services**, where I worked on the **BMW 
 
 
 ## 📫 Connect with me
+
+#
+<img align="right" height="200" width="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZXFpdHF5bXM4ZWZvbjF3NXVkN3pvb2I5MzFvejQ4NmU4OXlqM3J1MyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/y47wpYG28V5Sj7p94R/giphy.gif" />
+#
 
 <p align="left">
   <a href="https://www.linkedin.com/in/pradnya-bantval-13728a22b" target="_blank" style="margin-right: 15px;">
