@@ -1,8 +1,7 @@
 # 👋 Hi there, I’m Pradnya!
 
-#
 <img align="right" height="300" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczJpcGpmb3lyOXJzaWxxbHR2NGoybGgyOHBtN2ZuZ2Z4bG10MTdkNSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/DMKug6t8o0Y6iWX7yK/giphy.gif" alt="Funny GIF" />
-#
+
 
 -Engineering grad from India who talks to data for a living.  
 -Power BI, Excel, and Python are my sidekicks. 💻📊✨
