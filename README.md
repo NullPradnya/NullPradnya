@@ -46,13 +46,18 @@
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=NullPradnya&theme=aura&hide_border=false&include_all_commits=false&count_private=false" />
-    <img src="https://nirzak-streak-stats.vercel.app/?user=NullPradnya&theme=aura&hide_border=false" />
+  <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=NullPradnya&theme=aura&hide_border=false&include_all_commits=false&count_private=false&card_width=360&hide_rank=false" height="200" />
+    <img src="https://nirzak-streak-stats.vercel.app/?user=NullPradnya&theme=aura&hide_border=false&card_width=360" height="200" />
   </div>
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullPradnya&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </div>
+
+
+
+
+
 
 
 
